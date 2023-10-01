@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AadiDevs
 - 👀 I’m interested in Web Development and Cloud Computing
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript.
 - 📫 How to reach me (https://instagram.com/aadi_3432?igshid=MzMyNGUyNmU2YQ==)
 
 <!---
